@@ -1,10 +1,11 @@
-import java.util.*; // fail AvoidStarImport rule
+import java.util.List; 
 
-public class test_Check { // should fail the TypeName rule
+public class TestCheck {
 
-    public void BADMethodName() { // should fail the MethodName rule
+    public void methodname() { 
         int num = 0;
-        if (num == 0) // should fail the NeedBraces rule
+        if (num == 0) {
             System.out.println("Number is zero");
+        }
     }
 }
