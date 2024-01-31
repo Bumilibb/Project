@@ -1,5 +1,3 @@
-import java. util.List; 
-
 public class TestCheck {
 
     public void methodname() { 
