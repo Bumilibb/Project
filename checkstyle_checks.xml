@@ -22,11 +22,6 @@
            default="checkstyle-suppressions.xml" />
     <property name="optional" value="true"/>
   </module>
-          <!--Custom Rule Line Length-->
-  <module name="LineLength">
-        <property name="max" value="120"/> <!-- made it 120 from 100 -->
-        <property name="ignorePattern" value="^package.*|^import.*|a href="|href="|http://|https://|ftp://"/>
-    </module>
           
   <module name="TreeWalker">
     <module name="OuterTypeFilename"/>
