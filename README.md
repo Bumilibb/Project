@@ -1,1 +1,2 @@
-# Project
+PROJECT INFORMATION 
+This project is a web application that creates an interactive dsplay showcasing the prime factors and divisibilty of any given number. Users input a number, and the application will present a dynamic chart or diagram illustrating which prime numbers divide it and highligting its prime factorization. This tool merges basic methematic principles with engagable visuals, making it an excellent resouce for learning about number properrties. 
