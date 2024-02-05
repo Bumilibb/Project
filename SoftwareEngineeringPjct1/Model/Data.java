@@ -6,4 +6,3 @@ public static class Data {
     
     // Getters and Setters
 }
-}
